@@ -1,16 +1,14 @@
-# testing_upload_download_app
+# Testing_Upload_Download_App_Flutter
 
-A new Flutter project.
+## Upload images and string parameters by using progress bar
 
-## Getting Started
+### Plugin used:
+### * Image Picker
+### * Dio
+### * Path Provider
 
-This project is a starting point for a Flutter application.
+# 
+### Languages and Tools used:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" width="100" height="100"  title="Flutter" style="padding:20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" width="100" height="100"  title="Android Studio" style="padding:20px;">
+# 
